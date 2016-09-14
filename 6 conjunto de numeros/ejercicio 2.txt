@@ -1,0 +1,10 @@
+DADO UN CONJUNTO DE N NUMEROS ENTEROS:
+
+1) Cantidad de positivos.
+2) Canrtidad de pares.
+3) Cantidad de impares.
+4) Porcentaje de numeros negativos.
+5) Cantidad de numeros entre[-30,30].
+6) Promedio.
+7) Numero Mayor.
+8) Numero Menor.
